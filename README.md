@@ -9,7 +9,7 @@ A free, legal IPTV playlist for Kodi / TiviMate / any M3U player.
 Point your player at the permanent link (never changes, even when the playlist updates):
 
 ```
-https://raw.githubusercontent.com/gabebaca7-ctrl/Free-IPTV/main/free-iptv-usa.m3u
+https://raw.githubusercontent.com/gabebaca7-ctrl/Free-IPTV-5280/main/free-iptv-usa.m3u
 ```
 
 - **Kodi (IPTV Simple Client):** Settings → Add-ons → PVR IPTV Simple Client → Configure → M3U Play List URL → paste the link.
