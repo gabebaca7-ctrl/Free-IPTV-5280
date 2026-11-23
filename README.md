@@ -6,10 +6,8 @@ A free, legal-source IPTV playlist built from the [iptv-org](https://iptv-org.gi
 
 **Logos:** included for 1,164 of 1,178 channels.
 
-**Program guide (EPG):** built in. The playlist header points your player at free guides for Pluto TV, Samsung TV Plus and Plex, covering **370 channels** (most of the big FAST networks). In TiviMate/XCIPTV the guide attaches automatically from the playlist; you can also add the guide URLs separately under EPG sources:
-- https://i.mjh.nz/PlutoTV/us.xml.gz
-- https://i.mjh.nz/SamsungTVPlus/us.xml.gz
-- https://i.mjh.nz/Plex/us.xml.gz
+**Program guide (EPG):** built in — one merged guide file covering **367 channels** (Pluto TV, Samsung TV Plus and Plex networks). The playlist header points your player at it automatically; if your player asks for the guide separately, use:
+- https://raw.githubusercontent.com/gabebaca7-ctrl/Free-IPTV-5280/main/epg.xml
 
 ## Playlist URL (paste into TiviMate, XCIPTV, Kodi, VLC…)
 
