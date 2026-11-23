@@ -1,21 +1,20 @@
-# Free IPTV (USA)
+# Free IPTV — USA (English)
 
-A free, legal IPTV playlist for Kodi / TiviMate / any M3U player.
+A free, legal-source IPTV playlist built from the [iptv-org](https://iptv-org.github.io/iptv/) US collection. It **mirrors the paid StreamKing lineup**: channels that exist in both are listed first, in the paid list's order and groups, under the same names — including HBO, ESPN, NFL Network, NBA TV, AMC, A&E, Paramount Network, Starz, Cinemax and Showtime Family Zone. All other free channels follow in their own groups. It complements the paid service; it doesn't replace it (free streams come and go, and true premium/PPV feeds have no free version).
 
-**1,178 channels** — US, English only. Built from the [iptv-org](https://iptv-org.github.io) community lists (free-to-air and FAST streams), cleaned up: no legislative/shopping filler, no Spanish-language channels, deduped.
+**1,178 channels** — Denver locals & national network feeds, entertainment, sports, movies, news, kids, comedy, classics, documentaries and music. English only.
 
-## Use it
+**Logos:** included for 1,164 of 1,178 channels.
 
-Point your player at the permanent link (never changes, even when the playlist updates):
+**Program guide (EPG):** built in. The playlist header points your player at free guides for Pluto TV, Samsung TV Plus and Plex, covering **370 channels** (most of the big FAST networks). In TiviMate/XCIPTV the guide attaches automatically from the playlist; you can also add the guide URLs separately under EPG sources:
+- https://i.mjh.nz/PlutoTV/us.xml.gz
+- https://i.mjh.nz/SamsungTVPlus/us.xml.gz
+- https://i.mjh.nz/Plex/us.xml.gz
+
+## Playlist URL (paste into TiviMate, XCIPTV, Kodi, VLC…)
 
 ```
 https://raw.githubusercontent.com/gabebaca7-ctrl/Free-IPTV-5280/main/free-iptv-usa.m3u
 ```
 
-- **Kodi (IPTV Simple Client):** Settings → Add-ons → PVR IPTV Simple Client → Configure → M3U Play List URL → paste the link.
-- **TiviMate / XCIPTV:** Add playlist → M3U playlist → paste the link.
-
-## Notes
-
-- Free streams come and go — some channels may be offline or geo-blocked at any given time. The list is refreshed regularly from the source lists.
-- Categories: News, Sports, Movies, Series, Kids, Entertainment, Comedy, Classics, Documentary, Music, Cooking, Travel and more.
+Refreshed automatically every week — the URL never changes.
