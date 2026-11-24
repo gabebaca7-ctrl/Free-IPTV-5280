@@ -11,6 +11,8 @@ A free, legal-source IPTV playlist built from the [iptv-org](https://iptv-org.gi
 
 Four paid-mirror channels were dropped by the EPG rule because no free guide exists for them anywhere: A&E, Beach TV Panama City, Fite 24/7 and Rally TV. They remain on the paid service.
 
+One station, one guide slot: KPVM-LD (Pahrump, NV) is carried as **Movies! KPVM-LD** — its ACE Country Radio stream was swapped out, since both streams shared the station's single guide listing.
+
 ## Playlist URL (paste into TiviMate, XCIPTV, Kodi, VLC…)
 
 ```
